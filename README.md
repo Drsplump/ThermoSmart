@@ -5,16 +5,16 @@ Blynk is used to add a smart device control system
 
 # Features
 
- - support rtc DS3231
+- support rtc DS3231
 
- - heating program saving on EEPROM
+- heating program saving on EEPROM
 
- - time setting menu
+- time setting menu
 
- - DS18b20 digital temperature probe used with resolution set to 9 bit
+- DS18b20 digital temperature probe used with resolution set to 9 bit
   in my case I had to carry out a calibration of -1 C in the "void temperature ()" section
   
- - web server for setting wifi  credentials: 
+- web server for setting wifi  credentials: 
   before power up, hold down and keep it as such
   for a few seconds the PLUS button, at this point an A.P. named "TermoSmart" is generated 
   with the settings address at 192.168.4.1,
@@ -23,15 +23,14 @@ Blynk is used to add a smart device control system
   
   # Blynk settings
   
- - temperature probe connected on V2
+- temperature probe connected on V2
  
- - operation led connected on V4
+- operation led connected on V4
+- thermostat connected on V1
  
- - thermostat connected on V1
+- Activation forcing connected to D0
  
- - Activation forcing connected to D0
- 
- - temperature graph connected on data from V2
+- temperature graph connected on data from V2
  
   you can replicate the app with the QRcode attached and, later, by entering it in the space provided
   on the related line: "char auth [] =" **************************** ";" the AUTH code issued by Blynk
