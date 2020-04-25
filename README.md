@@ -25,7 +25,7 @@ Blynk is used to add a smart device control system
   
  * temperature probe connected on V2
  
- * power light connected on V4
+ * operation led connected on V4
  
  * thermostat connected on V1
  
@@ -35,3 +35,20 @@ Blynk is used to add a smart device control system
  
   you can replicate the app with the QRcode attached and, later, by entering it in the space provided
   on the related line: "char auth [] =" **************************** ";" the AUTH code issued by Blynk
+  
+  
+   *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+   
+   tnx to:
+   
+   https://github.com/adafruit/RTClib
+   https://github.com/johnrickman/LiquidCrystal_I2C
+   https://github.com/PaulStoffregen/OneWire
+   https://github.com/milesburton/Arduino-Temperature-Control-Library
+   https://github.com/tzapu/WiFiManager
+   https://github.com/blynkkk/blynk-library
+
+   I hope I have not left anything out.
+   
+   seivasan79@gmail.com  
+  
