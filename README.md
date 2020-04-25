@@ -24,12 +24,17 @@ Blynk is used to add a smart device control system
   the SET key or by activating the line of code "wifiManager.resetSettings ();"
   
   # Blynk settings
- BLYNK app connection:
-  temperature probe connected on V2
-  power light connected on V4
-  thermostat connected on V1
-  Activation forcing connected to D0
-  temperature graph connected on data from V2
+  
+ * temperature probe connected on V2
+ 
+ * power light connected on V4
+ 
+ * thermostat connected on V1
+ 
+ * Activation forcing connected to D0
+ 
+ * temperature graph connected on data from V2
+ 
   you can replicate the app with the QRcode attached and, later, by entering it in the space provided
   on the related line: "char auth [] =" **************************** ";" the AUTH code issued by Blynk
  
