@@ -41,10 +41,15 @@ Blynk is used to add a smart device control system
    tnx to:
    
    https://github.com/adafruit/RTClib
+   
    https://github.com/johnrickman/LiquidCrystal_I2C
+   
    https://github.com/PaulStoffregen/OneWire
+   
    https://github.com/milesburton/Arduino-Temperature-Control-Library
+   
    https://github.com/tzapu/WiFiManager
+   
    https://github.com/blynkkk/blynk-library
 
    I hope I have not left anything out.
