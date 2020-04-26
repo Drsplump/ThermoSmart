@@ -4,7 +4,9 @@ initially developed for arduino.
 Blynk is used to add a smart device control system
 
 
-![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/termo_nodemcu_bb.jpg)
+![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/server.png)
+
+
 
 # Features
 
@@ -24,7 +26,11 @@ Blynk is used to add a smart device control system
   it is also possible to cancel the previously saved settings with the same procedure as above but using
   the SET key or by activating the line of code "wifiManager.resetSettings ();"
   
-  # Blynk settings
+  
+ ![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/termo_nodemcu_bb.jpg)
+  
+ 
+ # Blynk settings
   
 - temperature probe connected on V2
  
@@ -37,6 +43,10 @@ Blynk is used to add a smart device control system
  
   you can replicate the app with the QRcode attached and, later, by entering it in the space provided
   on the related line: "char auth [] =" **************************** ";" the AUTH code issued by Blynk
+  
+  
+  ![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/app%20blynk.jpg)
+  
   
   
    *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
