@@ -3,6 +3,9 @@ ThermoSmart is a project that creates a chronothermostat based on Nodemcu1.0 (es
 initially developed for arduino.
 Blynk is used to add a smart device control system
 
+
+![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/termo_nodemcu_bb.jpg)
+
 # Features
 
 - support rtc DS3231
