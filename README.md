@@ -3,10 +3,7 @@ ThermoSmart is a project that creates a chronothermostat based on Nodemcu1.0 (es
 initially developed for arduino.
 Blynk is used to add a smart device control system
 
-
-![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/server.png)
-
-
+![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/termo_nodemcu_bb.jpg)
 
 # Features
 
@@ -27,7 +24,7 @@ Blynk is used to add a smart device control system
   the SET key or by activating the line of code "wifiManager.resetSettings ();"
   
   
- ![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/termo_nodemcu_bb.jpg)
+![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/server.png)
   
  
  # Blynk settings
