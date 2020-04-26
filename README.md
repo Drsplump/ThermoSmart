@@ -1,5 +1,5 @@
 # ThermoSmart
-ThermoSmart is a project that creates a chronothermostat based on Nodemcu1.0 (esp 12e)
+ThermoSmart is a simple project that creates a chronothermostat on a Nodemcu1.0 (esp 12e)
 initially developed for arduino.
 Blynk is used to add a smart device control system
 
@@ -32,6 +32,7 @@ Blynk is used to add a smart device control system
 - temperature probe connected on V2
  
 - operation led connected on V4
+
 - thermostat connected on V1
  
 - Activation forcing connected to D0
