@@ -1,20 +1,14 @@
 # ThermoSmart
-ThermoSmart is a simple project that creates a chronothermostat on a Nodemcu1.0 (esp 12e)
-initially developed for arduino.
+A simple chronothermostat on a Nodemcu1.0 (esp 12e) initially developed for arduino.
 Blynk is used to add a smart device control system
 
 ![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/termo_nodemcu_bb.jpg)
 
 # Features
 
-- support rtc DS3231
+- heating program saved on EEPROM
 
-- heating program saving on EEPROM
-
-- time setting menu
-
-- DS18b20 digital temperature probe used with resolution set to 9 bit
-  in my case I had to carry out a calibration of -1 C in the "void temperature ()" section
+- time setting menu on LCD
   
 - web server for setting wifi  credentials: 
   before power up, hold down and keep it as such
@@ -27,7 +21,7 @@ Blynk is used to add a smart device control system
 ![alt text](https://github.com/Drsplump/ThermoSmart/blob/master/server.png)
   
  
- # Blynk settings
+ # Blynk app settings
   
 - temperature probe connected on V2
  
